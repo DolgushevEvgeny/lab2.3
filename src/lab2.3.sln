@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "std_map", "std_map\std_map.vcxproj", "{7A1E371D-8761-47F3-81D0-B0AE2B692A9F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "std_map_tests", "std_map_tests\std_map_tests.vcxproj", "{A8087EDE-2C87-4AF4-A3FF-4AFBEBF4FCDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A1E371D-8761-47F3-81D0-B0AE2B692A9F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A1E371D-8761-47F3-81D0-B0AE2B692A9F}.Debug|Win32.Build.0 = Debug|Win32
+		{7A1E371D-8761-47F3-81D0-B0AE2B692A9F}.Release|Win32.ActiveCfg = Release|Win32
+		{7A1E371D-8761-47F3-81D0-B0AE2B692A9F}.Release|Win32.Build.0 = Release|Win32
+		{A8087EDE-2C87-4AF4-A3FF-4AFBEBF4FCDF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A8087EDE-2C87-4AF4-A3FF-4AFBEBF4FCDF}.Debug|Win32.Build.0 = Debug|Win32
+		{A8087EDE-2C87-4AF4-A3FF-4AFBEBF4FCDF}.Release|Win32.ActiveCfg = Release|Win32
+		{A8087EDE-2C87-4AF4-A3FF-4AFBEBF4FCDF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
